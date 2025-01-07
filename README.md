@@ -17,8 +17,6 @@ AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cua
 ## Funcionalidades del proyecto 
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de categorias
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de videos 
-## Acceso al proyecto
-[Demo](https://aluraflix-phi-five.vercel.app/)
 ## Tecnologías utilizadas
 - React
 - Swiper
