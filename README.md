@@ -1,9 +1,6 @@
 ![Logo de AluraFlix](./src/assets/img/logo.svg)  
 
 <hr>  
-
-![Badge en Desarollo](https://img.shields.io/badge/Estado-En%20desarrollo-green)
-![GitHub estrellas](https://img.shields.io/github/stars/zidjian?style=social)  
 ### Índice  
 
 - [Descripción del proyecto](#Descripción-del-proyecto) 
